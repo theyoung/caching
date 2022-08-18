@@ -1,4 +1,4 @@
-package caching.multiinstance;
+package multiinstance;
 
 import org.apache.ignite.Ignition;
 import org.apache.ignite.client.ClientCache;
